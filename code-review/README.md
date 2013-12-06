@@ -56,6 +56,8 @@ Understand why the code is necessary (bug, user experience, refactoring). Then:
 * Offer alternative implementations, but assume the author already considered
   them. ("What do you think about using a custom validator here?")
 * Seek to understand the author's perspective.
+* If you're just sure that the perspective you're advocating is right but others
+  are not yet convinced, show what you mean with an example.
 * Sign off on the pull request with a :thumbsup: or "Ready to merge" comment.
 
 Style comments
