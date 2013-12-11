@@ -32,6 +32,8 @@ Formatting
 * Use 2 space indentation (no tabs).
 * Use an empty line between methods.
 * Use newlines around multi-line blocks.
+* Don't use an extra line before `end`.
+* Use a newline at the end of a file.
 * Use spaces around operators, after commas, after colons and semicolons, around
   `{` and before `}`.
 * Use [Unix-style line endings] (`\n`).
